@@ -1,0 +1,24 @@
+.stwillSlider-container{
+    max-width:600px;
+    overflow:hidden;
+}
+.stwillSlider {
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+}
+.stwillSlider>li>img:first-of-type {
+    width:100%;
+}
+
+.stwillSlider>li>p{
+	background-color: rgba(0,0,0,.7);
+	position: absolute;
+	bottom: 10px;
+	left: 0;
+	padding: 10px;
+	color: #FFF;
+}
+header{
+	clear: both;
+}
